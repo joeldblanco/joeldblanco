@@ -34,12 +34,9 @@ I'm a full-stack developer who enjoys turning complex product ideas into polishe
 | **Full-stack systems** | Creating scalable, user-centered products from database design to deployment. |
 | **Quality engineering** | Shipping with thoughtful testing, secure authorization, and international-ready UX. |
 
-## GitHub activity
+## Explore my work
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joeldblanco&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="Joel's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeldblanco&layout=compact&hide_border=true&theme=transparent" alt="Joel's most used languages" />
-</p>
+Browse my [GitHub profile](https://github.com/joeldblanco) to see the projects and experiments I'm building.
 
 ---
 
